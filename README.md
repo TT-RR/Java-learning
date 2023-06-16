@@ -1,7 +1,6 @@
-```
-method
+# ファイル構成
 
- - method_1.java //メソッドの基礎
+1.method => メソッド関連
 
- - method_2.java //戻り値の例
-```
+2.scanner => キーボード入力関連
+
