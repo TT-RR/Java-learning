@@ -1,7 +1,7 @@
 ```
 method
 
- - method_1.java メソッドの基礎
+ - method_1.java //メソッドの基礎
 
- - method_2.java 戻り値の例
+ - method_2.java //戻り値の例
 ```
