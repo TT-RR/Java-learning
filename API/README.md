@@ -10,7 +10,7 @@ https://docs.oracle.com/javase/jp/8/docs/api/
 |java.net|ネットワーク通信などを行うためのクラス群|
 |java.io|ファイル読み書きなど、データを逐次処理するためのクラス群|
 
-#### importしなくても自動的にインポートされる
+#### import文書かなくても自動的にインポートされる
 - System
 - Math
 - String
